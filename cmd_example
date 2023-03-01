@@ -1,0 +1,11 @@
+# erase
+esptool.py --chip esp32 erase_flash
+
+# write iso
+esptool.py --chip esp32 write_flash -z 0x220000 sound.iso
+
+# create iso
+python ~/esp/esp-adf/esp-idf/components/spiffs/spiffsgen.py 0x100000 sound sound.iso
+
+# EMBED_TXTFILES telegram_certificate.pem
+# COMPONENT_EMBED_TXTFILES := telegram_certificate.pem

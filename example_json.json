@@ -1,0 +1,185 @@
+[
+{
+    "ok":true,
+    "result":[{
+        "update_id":607796811,
+        "message":{
+            "message_id":177,
+            "from":{
+                "id":372705559,
+                "is_bot":false,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "language_code":"ru"
+            },
+            "chat":{
+                "id":372705559,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "type":"private"
+            },
+            "date":1676360741,
+            "text":"/start",
+            "entities":[{
+                "offset":0,
+                "length":6,
+                "type":"bot_command"
+            }]
+        }
+    }]
+},
+
+{
+    "ok":true,
+    "result":[{
+        "update_id":607796812,
+        "message":{
+            "message_id":178,
+            "from":{
+                "id":372705559,
+                "is_bot":false,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "language_code":"ru"
+            },
+            "chat":{
+                "id":372705559,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "type":"private"
+            },
+            "date":1676446081,
+            "text":"sap"
+        }
+    }]
+},
+
+{
+    "ok":true,
+    "result":[{
+        "update_id":607796814,
+        "message":{
+            "message_id":210,
+            "from":{
+                "id":372705559,
+                "is_bot":false,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "language_code":"ru"
+            },
+            "chat":{
+                "id":372705559,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "type":"private"
+            },
+            "date":1676531941,
+            "voice":{
+                "duration":1,
+                "mime_type":"audio/ogg",
+                "file_id":"AwACAgIAAxkBAAPSY-3Y5bJeLZ30Or2Bx7Xt9NEf5GIAAjIiAALsMHFLEO8pedW2j-AuBA",
+                "file_unique_id":"AgADMiIAAuwwcUs",
+                "file_size":30979
+            }
+        }
+    }]
+},
+
+{
+    "ok":true,
+    "result":[{
+        "update_id":607796815,
+        "message":{
+            "message_id":211,
+            "from":{
+                "id":372705559,
+                "is_bot":false,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "language_code":"ru"
+            },
+            "chat":{
+                "id":372705559,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "type":"private"
+            },
+            "date": 1676532278,
+            "audio": {
+                "duration": 193,
+                "file_name": "Pain - Shut Your Mouth.mp3",
+                "mime_type": "audio/mpeg",
+                "title": "Shut Your Mouth (Sefon.Pro)",
+                "performer": "Pain",
+                "file_id": "CQACAgIAAxkBAAPTY-3aNb0upYlUSHK9wfLiWxHCdTgAAjgiAALsMHFL73c1IuAZ7WAuBA",
+                "file_unique_id": "AgADOCIAAuwwcUs",
+                "file_size": 7726148
+            }
+        }
+    }]
+},
+
+{
+    "ok":true,
+    "result":[{
+        "update_id":607796831,
+        "message":{
+            "message_id":237,
+            "from":{
+                "id":372705559,
+                "is_bot":false,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "language_code":"ru"
+            },
+            "chat":{
+                "id":372705559,
+                "first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+                "last_name":"\u0413\u0440\u0435\u0431\u0435\u043d\u044e\u043a",
+                "username":"comradeGooSe",
+                "type":"private"
+            },
+            "date":1676618836,
+            "sticker":{
+                "width":512,
+                "height":512,
+                "emoji":"\ud83d\udd95",
+                "set_name":"TheBoysbyMarckWhite_by_fStikBot",
+                "is_animated":false,
+                "is_video":true,
+                "type":"regular",
+                "thumb":{
+                    "file_id":"AAMCAgADGQEAA-1j7yxUWZgMLK5HSH1FXltd5iGtLgACAiAAAtEIYEk3cyYdOdn5sgEAB20AAy4E",
+                    "file_unique_id":"AQADAiAAAtEIYEly",
+                    "file_size":12364,
+                    "width":320,
+                    "height":320
+                },
+                "file_id":"CAACAgIAAxkBAAPtY-8sVFmYDCyuR0h9RV5bXeYhrS4AAgIgAALRCGBJN3MmHTnZ-bIuBA",
+                "file_unique_id":"AgADAiAAAtEIYEk",
+                "file_size":145931
+            }
+        }
+    }]
+},
+
+{
+    "ok":true,
+    "result":{
+        "file_id":"AwACAgIAAxkBAAIBE2P0Kq01aioiD2bu2N28ES2bulUwAAJGKwACO_agS2XNWFpwkzn6LgQ",
+        "file_unique_id":"AgADRisAAjv2oEs",
+        "file_size":21091,
+        "file_path":"voice/file_2.oga"
+    }
+}
+
+]
